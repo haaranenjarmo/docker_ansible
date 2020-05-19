@@ -1,4 +1,4 @@
-﻿FROM jarmohaaranen/powershell:latest
+﻿FROM jarmohaaranen/powershell:7.0.1
 
 LABEL Author="Jarmo Haaranen" \
     Twitter="@HaaranenJarmo" \
